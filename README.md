@@ -1,5 +1,5 @@
 # Responsive-Popup-Modal
-![viewfinal](https://raw.githubusercontent.com/Amirreza-Rashvand-Developer/Amirreza-Rashvand/main/preview.jpg)
+![viewfinal](https://raw.githubusercontent.com/Amirreza-Rashvand-Developer/Responsive-Popup-Modal/main/preview.png)
 
 - [Demo Project](https://amirreza-rashvand-developer.github.io/Amirreza-Rashvand/)
 
