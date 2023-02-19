@@ -1,0 +1,8 @@
+/* ==== Custom Media Queries ==== */
+@media screen and (max-width: 426px) {
+    .modal__data {
+        width: 90%;
+    }
+}
+
+/* ==== Custom Media Queries ==== */
